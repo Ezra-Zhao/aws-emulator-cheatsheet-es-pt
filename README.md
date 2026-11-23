@@ -1,5 +1,7 @@
 # aws-emulator 速查表 | aws-emulator Cheatsheet | Guía rápida de aws-emulator
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 **测 AWS 不用先开账号、先刷卡——但保真度逐个服务不同，先看第一屏的分工卡，再查分数再信结果**
 
 > 一页看懂 AWS 官方出的本地模拟器 aws-emulator：起一个本地 HTTPS 端点，把 AWS CLI 或 SDK 指过去，就能在没有 AWS 账号、不产生云费用的情况下测自己的软件。它卖的不是「又一个模拟器」，是官方保真度分数和从 LocalStack 搬家的时点。这张卡把搬家选路、保真度核查、三条红线和遥测关闭收在一页。
